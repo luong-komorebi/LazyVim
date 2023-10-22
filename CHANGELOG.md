@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.5.1](https://github.com/LazyVim/LazyVim/compare/v10.5.0...v10.5.1) (2023-10-22)
+
+
+### Bug Fixes
+
+* **mini.hipatterns:** use `extmark_opts` instead of soft deprecated `priority` ([#1841](https://github.com/LazyVim/LazyVim/issues/1841)) ([e55ab41](https://github.com/LazyVim/LazyVim/commit/e55ab411b42c75919b33b87e19714b5c595316d4))
+
 ## [10.5.0](https://github.com/LazyVim/LazyVim/compare/v10.4.4...v10.5.0) (2023-10-19)
 
 
